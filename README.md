@@ -2,7 +2,7 @@
   <a href="https://www.dreamisdream.com"><img src="banner.png" alt="dreamisdream Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.dreamisdream.com">dreamisdream</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.dreamisdream.com">tomorrow</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
